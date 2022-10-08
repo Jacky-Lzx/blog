@@ -2938,16 +2938,16 @@ main >.inner {
   left: -10%;
 }
 .social .item.github::before {
-  background-color: #191717;
+  background-color: #1e88e5;
 }
 .social .item.github i {
-  color: #191717;
+  color: #1e88e5;
 }
-.social .item.twitter::before {
-  background-color: #00aff0;
+.social .item.leetcode::before {
+  background-color: #1e88e5;
 }
-.social .item.twitter i {
-  color: #00aff0;
+.social .item.leetcode i {
+  color: #1e88e5;
 }
 .social .item.zhihu::before {
   background-color: #1e88e5;
@@ -2955,11 +2955,17 @@ main >.inner {
 .social .item.zhihu i {
   color: #1e88e5;
 }
+.social .item.bilibili::before {
+  background-color: #1e88e5;
+}
+.social .item.bilibili i {
+  color: #1e88e5;
+}
 .social .item.email::before {
-  background-color: #55acd5;
+  background-color: #1e88e5;
 }
 .social .item.email i {
-  color: #55acd5;
+  color: #1e88e5;
 }
 .social .item:focus i,
 .social .item:hover i {
